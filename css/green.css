@@ -11,6 +11,7 @@
 *	Edit this section
 *
 * ======================================================= */
+html { height: 100%; }
 body {
   font-family: "Source Sans Pro", Arial, sans-serif;
   font-weight: 400;
@@ -322,8 +323,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #fh5co-testimonials {
-  background: #7fba00 url(../images/sativa.jpg) repeat top left;
-  background-attachment: fixed;
+	background: #7fba00 url(../images/sativa.jpg) repeat top left;
+	background-attachment: fixed;
+	height: 100%;
 }
 #fh5co-testimonials .section-heading h2 {
   color: white;
